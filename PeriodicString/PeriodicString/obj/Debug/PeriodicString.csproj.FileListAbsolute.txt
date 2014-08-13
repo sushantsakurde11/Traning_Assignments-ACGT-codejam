@@ -1,0 +1,6 @@
+D:\Sushant\PeriodicString\PeriodicString\bin\Debug\PeriodicString.exe.config
+D:\Sushant\PeriodicString\PeriodicString\bin\Debug\PeriodicString.exe
+D:\Sushant\PeriodicString\PeriodicString\bin\Debug\PeriodicString.pdb
+D:\Sushant\PeriodicString\PeriodicString\obj\Debug\PeriodicString.exe
+D:\Sushant\PeriodicString\PeriodicString\obj\Debug\PeriodicString.pdb
+D:\Sushant\PeriodicString\PeriodicString\obj\Debug\PeriodicString.csprojResolveAssemblyReference.cache
